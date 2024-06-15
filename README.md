@@ -1,1 +1,1 @@
-gemini-image-text-analyzer.streamlit.app
+multilang-invoice-extractor.streamlit.app
